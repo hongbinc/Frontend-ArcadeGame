@@ -1,6 +1,15 @@
-frontend-nanodegree-arcade-game
-===============================
+#Classic Arcade Game Clone
+![](http://progressed.io/bar/100?title=Progress)
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+## Project Objective:
+You will be provided visual assets and a game loop engine; using these tools you must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+##What I have Done:
+- Utilized JavaScript's object oriented programming features to write "Enemy" and "Player" classes to create instances of objects.
+- Deployed a pseudoclassical pattern.
+
+## How to play:
+-Press Left, Right, Up, and Down on Keyboard to play
+-Reaches the water: Game is win.
+-Collides with an enemy: Game restart.
+
