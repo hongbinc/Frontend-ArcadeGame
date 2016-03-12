@@ -1,4 +1,4 @@
-#Classic Arcade Game Clone ##-- [Live Demo](http://hongbinc.github.io/Frontend-ArcadeGame/)
+#Classic Arcade Game Clone -- [Live Demo](http://hongbinc.github.io/Frontend-ArcadeGame/)##
 ![](http://progressed.io/bar/100?title=Progress)
 
 ## Project Objective:
