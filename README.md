@@ -1,5 +1,5 @@
-#Classic Arcade Game Clone 
-![](http://progressed.io/bar/100?title=Progress)-- [Live Demo](http://hongbinc.github.io/Frontend-ArcadeGame/)
+#Classic Arcade Game Clone ##-- [Live Demo](http://hongbinc.github.io/Frontend-ArcadeGame/)
+![](http://progressed.io/bar/100?title=Progress)
 
 ## Project Objective:
 You will be provided visual assets and a game loop engine; using these tools you must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
