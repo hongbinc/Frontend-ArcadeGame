@@ -67,7 +67,7 @@ var Player = function (PlayerX, PlayerY) {
 Player.prototype.update = function () {
     // If player reach the water, reset player's position
     if (this.y < 0) {
-        player.reset();
+        this.reset();
     }
 };
 /**
