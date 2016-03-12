@@ -9,7 +9,7 @@ You will be provided visual assets and a game loop engine; using these tools you
 - Deployed a pseudoclassical pattern.
 
 ## How to play:
-- Press 'Left', 'Right', 'Up', and 'Down' on Keyboard to play.
+- Press `Left`, `Right`, `Up`, and `Down` on Keyboard to play.
 - Reaches the water: Game is win.
 - Collides with an enemy: Game restart.
 
