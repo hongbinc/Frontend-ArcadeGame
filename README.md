@@ -1,4 +1,4 @@
-#Classic Arcade Game Clone
+#Classic Arcade Game Clone -- [Live Demo](http://hongbinc.github.io/Frontend-ArcadeGame/)##
 ![](http://progressed.io/bar/100?title=Progress)
 
 ## Project Objective:
@@ -12,4 +12,5 @@ You will be provided visual assets and a game loop engine; using these tools you
 - Press `Left`, `Right`, `Up`, and `Down` on Keyboard to play.
 - Reaches the water: Game is win.
 - Collides with an enemy: Game restart.
+
 
