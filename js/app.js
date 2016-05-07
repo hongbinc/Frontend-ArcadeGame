@@ -27,7 +27,7 @@ Enemy.prototype.update = function (dt) {
         this.x = 0;
         // Randomnize enemy's speed every time enemy move off 
         // the screen and start from the begining again.
-        this.randamSpeed();
+        this.randomSpeed();
     }
     // Check if there are collisions between the player and enemies.
     if (Math.abs(player.x - this.x) < 50 && Math.abs(player.y - this.y) < 50) {
@@ -46,7 +46,7 @@ Enemy.prototype.render = function () {
  * Randomnize enemy's speed every time enemy move off 
  * the screen and start from the begining again.
  */
-Enemy.prototype.randamSpeed = function () {
+Enemy.prototype.randomSpeed = function () {
     var speedRandom = Math.floor(Math.random() * maxSpeedEnemy + minSpeedEnemy);
     this.speed = speedRandom;
 };
